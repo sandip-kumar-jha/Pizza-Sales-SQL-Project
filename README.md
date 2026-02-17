@@ -20,9 +20,8 @@ The goal is to understand sales patterns, customer ordering behavior, revenue co
  
 * Measure revenue contribution of each pizza type
   
-* Track sales performance over time
+* Track sales performance over time.
 
----
 
 ## 🛠️ Skills Used
 
@@ -94,6 +93,12 @@ The goal is to understand sales patterns, customer ordering behavior, revenue co
 3. Run queries to generate insights.
 
 ---
+
+## Business Problems Solved
+- Identified peak order hours
+- Found top revenue generating pizzas
+- Analyzed category demand trends
+- Measured sales contribution by product.
 
 ## 💼 Purpose
 
