@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales SQL Analysis Project
+# 🍕 SQL-Based Sales Analysis & Business Insights (Pizza Dataset)
 
 ## 📌 Project Overview
 
